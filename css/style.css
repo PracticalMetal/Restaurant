@@ -1,0 +1,261 @@
+h1{
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h5{
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-size: 70px;
+}
+
+.carousel-indicators li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+
+/* img{
+    background: linear-gradient(#BCED91 49%, transparent 49%),
+        linear-gradient(-45deg, white 33%, transparent 33%) 0 50%,
+        white linear-gradient(45deg, white 33%, #BCED91 33%) 0 50%;
+    background-repeat: repeat-x;
+    background-size: 1px 100%, 40px 40px, 40px 40px;
+} */
+
+.our-story-heading{
+    text-align:center;
+    color:red;
+    padding-top: 2.5rem;
+    font-size: 70px;
+    height:140px;
+}
+
+.our-story-para{
+    padding-bottom:100px;
+    /* text-align: center; */
+    width:800px;
+    height:500px;
+    font-weight: 150%;
+    padding-top: 50px;
+    margin:auto;
+    font-size: 18px;
+    
+}
+
+.mid-car{
+    height: 50vh;
+}
+
+.package-img{
+    height: 80vh;
+    width:120vw;
+}
+
+.special-package{
+    color:red;
+    padding-bottom: 80px;
+}
+
+.para::first-letter {
+    float: left;
+    font-size: 80px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
+
+.test{
+    position: absolute;
+    top: 45vh;
+    left: 45vw;
+    margin: auto;
+}
+
+.special-heading{
+    position: absolute;
+    top: 5vh;
+    left:40vw;
+    color:red;  
+}
+
+.special-img{
+    position: absolute;
+    top: 23vh;
+    left:15vw;
+    width:45vw !important;
+    height:45vh; !important;
+}
+
+.special-sep{
+    position: absolute;
+    top: 14vh;
+    left:45vw;
+    /* width: 15vw; */
+}
+
+.special-div{
+    background-color: white;
+    position: absolute !important;
+    height: 23vh;
+    width: 25vw;
+    top: 33vh;
+    left:60vw;
+}
+
+.special-off{
+    font-weight: bold;
+    text-align:center;
+    padding-top: 30px;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.special-para{
+    text-align:center;
+    padding-top:10px;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.special-btn{
+    margin-left:auto;
+    width:40%;
+    margin-top:10px;
+    left: 100px;
+}
+
+.today-header{
+    color:red;
+    text-align:center;
+}
+
+.today-sep{
+    margin-left:44vw;
+}
+
+.today-button{
+    padding-top:50px;
+    margin-left:34vw;
+    padding-bottom:40px;
+}
+
+.today-card{
+    padding: 20px !important;
+}
+
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.l-items{
+    margin:0;
+}
+
+.l-item{
+    padding:0;
+    width:50px;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-size: 20px;
+}
+
+.ul-item{
+    width:100px;
+}
+
+.picture{
+    width: 250px;
+}
+
+.today-img{
+    border-radius:50%;
+    border: 13px solid #D3D3D3;
+}
+
+.book-img{
+    height: 40vh;
+    width:100vw;
+}
+
+.book-heading{
+    /* position: absolute;
+    top: 5vh;
+    left:40vw; */
+    text-align:center;
+    color:  white;  
+    margin-top: 100px;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    letter-spacing:8px;
+
+}
+
+.book-btn{
+    margin-top:20px;
+    color:red;
+    width:10%;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-size:15px;
+    letter-spacing:2px;
+}
+
+.chef-heading{
+    text-align:center;
+    color:red;
+    padding-top: 2.5rem;
+    font-size: 70px;
+    height:140px;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.chef-sep{
+    margin-left:44vw;
+    padding-bottom:50px;
+}
+
+.chef-img{
+    width: 350px;
+    height: 400px;
+    /* margin-left: auto;
+  margin-right: auto; */
+  margin:auto;
+  padding-top:15px;
+}
+
+.chef-card{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:5px;
+}
+
+.card-text{
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+.news-img{
+    height: 85vh;
+    width:100vw;
+}
+
+.news-heading{
+    text-align:center;
+    color:red;
+    padding-top: 4.5rem;
+    font-size: 70px;
+    height:140px;
+}
+
+.card-col{
+    height:500px;
+    width:400px;
+    /* margin:auto; */
+}
+
+.gallery-sep{
+    margin-left:44vw;
+    padding-bottom:50px;
+    padding-top:20px;
+}
+
+.footer-img{
+    padding-top:40px;
+}
