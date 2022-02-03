@@ -1,3 +1,5 @@
+/* BODY */
+
 h1{
     font-family: 'Dancing Script', cursive !important;
     font-size: 70px;
@@ -9,19 +11,17 @@ h5{
     font-size: 70px;
 }
 
+
+/* TOP CAROUSEL */
+
 .carousel-indicators li {
     width: 10px !important;
     height: 10px !important;
     border-radius: 100%;
 }
 
-/* img{
-    background: linear-gradient(#BCED91 49%, transparent 49%),
-        linear-gradient(-45deg, white 33%, transparent 33%) 0 50%,
-        white linear-gradient(45deg, white 33%, #BCED91 33%) 0 50%;
-    background-repeat: repeat-x;
-    background-size: 1px 100%, 40px 40px, 40px 40px;
-} */
+
+/* STORY */
 
 .our-story-heading{
     text-align:center;
@@ -43,20 +43,6 @@ h5{
     
 }
 
-.mid-car{
-    height: 50vh;
-}
-
-.package-img{
-    height: 80vh;
-    width:120vw;
-}
-
-.special-package{
-    color:red;
-    padding-bottom: 80px;
-}
-
 .para::first-letter {
     float: left;
     font-size: 80px;
@@ -70,6 +56,26 @@ h5{
     top: 45vh;
     left: 45vw;
     margin: auto;
+}
+
+
+/* MID CAROUSEL */
+
+.mid-car{
+    height: 50vh;
+}
+
+
+/* SPECIAL PACKAGE */
+
+.package-img{
+    height: 80vh;
+    width:120vw;
+}
+
+.special-package{
+    color:red;
+    padding-bottom: 80px;
 }
 
 .special-heading{
@@ -91,7 +97,6 @@ h5{
     position: absolute;
     top: 14vh;
     left:45vw;
-    /* width: 15vw; */
 }
 
 .special-div{
@@ -123,6 +128,9 @@ h5{
     left: 100px;
 }
 
+
+/* TODAY'S MENU */
+
 .today-header{
     color:red;
     text-align:center;
@@ -141,6 +149,7 @@ h5{
 .today-card{
     padding: 20px !important;
 }
+
 
 .card-title{
     font-size: 30px;
@@ -172,15 +181,15 @@ h5{
     border: 13px solid #D3D3D3;
 }
 
+
+/* BOOK A TABLE */
+
 .book-img{
     height: 40vh;
     width:100vw;
 }
 
 .book-heading{
-    /* position: absolute;
-    top: 5vh;
-    left:40vw; */
     text-align:center;
     color:  white;  
     margin-top: 100px;
@@ -197,6 +206,9 @@ h5{
     font-size:15px;
     letter-spacing:2px;
 }
+
+
+/* CHEFS */
 
 .chef-heading{
     text-align:center;
@@ -215,10 +227,8 @@ h5{
 .chef-img{
     width: 350px;
     height: 400px;
-    /* margin-left: auto;
-  margin-right: auto; */
-  margin:auto;
-  padding-top:15px;
+    margin:auto;
+    padding-top:15px;
 }
 
 .chef-card{
@@ -231,6 +241,8 @@ h5{
     font-family: 'PT Sans Narrow', sans-serif !important;
 }
 
+
+/* LATEST NEWS */
 .news-img{
     height: 85vh;
     width:100vw;
@@ -250,11 +262,17 @@ h5{
     /* margin:auto; */
 }
 
+
+/* GALLERY */
+
 .gallery-sep{
     margin-left:44vw;
     padding-bottom:50px;
     padding-top:20px;
 }
+
+
+/* FOOTER */
 
 .footer-img{
     padding-top:40px;
